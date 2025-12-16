@@ -64,6 +64,9 @@
         <mxCell id="RB4e62KG4hYr6wFVKpGY-5" parent="YVlxQTOhQme3JXEvaNHu-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Worker 2" vertex="1">
           <mxGeometry height="30" width="60" x="347.5" y="230" as="geometry" />
         </mxCell>
+        <mxCell id="RB4e62KG4hYr6wFVKpGY-6" parent="YVlxQTOhQme3JXEvaNHu-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Docker Swarm: Monitoring and Alerting&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="180" y="20" as="geometry" />
+        </mxCell>
         <mxCell id="YVlxQTOhQme3JXEvaNHu-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Docker Swarm" vertex="1">
           <mxGeometry height="440" width="640" x="140" y="830" as="geometry" />
         </mxCell>
