@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="DSHtMJINQe7tIduBjE5A">
+    <mxGraphModel dx="1669" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fflkoNiq-8i9UHq0eX8K-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="trivy&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="fflkoNiq-8i9UHq0eX8K-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="report&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="fflkoNiq-8i9UHq0eX8K-4" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="identify High crit CVE : 500" vertex="1">
+          <mxGeometry height="80" width="120" x="720" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="fflkoNiq-8i9UHq0eX8K-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Owner notification : report&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="fflkoNiq-8i9UHq0eX8K-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="resp team doest remidiation&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="730" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="fflkoNiq-8i9UHq0eX8K-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Montly 1 : 500&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="fflkoNiq-8i9UHq0eX8K-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6 months" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="fflkoNiq-8i9UHq0eX8K-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Month 2 : 20&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="fflkoNiq-8i9UHq0eX8K-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kernel update&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="fflkoNiq-8i9UHq0eX8K-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="470" width="50" y="730" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
